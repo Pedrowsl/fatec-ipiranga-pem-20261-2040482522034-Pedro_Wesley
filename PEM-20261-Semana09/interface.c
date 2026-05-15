@@ -1,3 +1,14 @@
+/*------------------------------------------------------------*
+*                      FATEC Ipiranga                         *
+*       Disciplina: Programação Estruturada e Modular         *
+*                   Prof. Carlos Veríssimo                    *
+*-------------------------------------------------------------*
+* Objetivo do Programa: Implementar o menu interativo         *
+* e realizar a comunicação entre usuário e sistema.           *
+* Data - 15/05/2026                                           *
+* Autor: Pedro Wesley                                         *
+*-------------------------------------------------------------*/
+
 #include <stdio.h>
 #include "interface.h"
 #include "recursao.h"
