@@ -1,3 +1,14 @@
+/*------------------------------------------------------------*
+*                      FATEC Ipiranga                         *
+*       Disciplina: Programação Estruturada e Modular         *
+*                   Prof. Carlos Veríssimo                    *
+*-------------------------------------------------------------*
+* Objetivo do Programa: Implementar funções matemáticas       *
+* recursivas para conversão, potência e soma de dígitos.      *
+* Data - 15/05/2026                                           *
+* Autor: Pedro Wesley                                         *
+*-------------------------------------------------------------*/
+
 #include <stdio.h>
 #include "recursao.h"
 
